@@ -1,7 +1,7 @@
 # AtliQ Mart Campaign Analysis Project
 
 ## Project Overview
-AtliQ Mart is a retail giant with over 50 supermarkets located in the southern region of India. During the Diwali 2023 and Sankranti 2024 festive seasons, all stores launched a massive promotion on AtliQ branded products. The sales director, Bruce Haryali, wanted to evaluate the success of these promotions to inform future promotional strategies. However, due to the analytics manager Tony's unavailability, the task was delegated to Peter Pandey, the company's curious data analyst.
+AtliQ Mart is a retail giant with over 50 supermarkets located in the southern region of India. During the Diwali 2023 and Sankranti 2024 festive seasons, all stores launched a massive promotion on AtliQ branded products. The sales director, Bruce Haryali, wanted to evaluate the success of these promotions to inform future promotional strategies.
 
 This project aims to provide actionable insights into the performance of various promotions, highlighting what worked well and what didn’t.
 
@@ -89,7 +89,7 @@ The dashboard includes:
    - Load the CSV files into the respective tables.
 
 2. **Run SQL Queries**:
-   - Use `script1.sql` for ad-hoc queries and insights.
+   - Use `Script1.sql` or `Script1.pdf` for ad-hoc queries and insights.
 
 3. **Explore the Dashboard**:
    - Open the `.pbix` file in Power BI to interact with the dashboard.
@@ -97,10 +97,12 @@ The dashboard includes:
 
 ---
 
-## Contact 
-Key recommendations based on the analysis:
-- **Email** : skjaveriya.11@gmail.com 
-- Allocate fewer resources to underperforming campaigns or refine their strategies.
-- Consider regional preferences and store-specific performance metrics to tailor promotions.
+## Contact
+For questions or feedback regarding this project, feel free to reach out:
+
+* Email: [skjaveriya.11@gmail.com]
+* LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
+* GitHub: [https://github.com/Shaikh-Javeriya]
+
 
 ---
