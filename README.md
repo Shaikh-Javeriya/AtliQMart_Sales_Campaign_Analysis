@@ -34,11 +34,15 @@ This project aims to provide actionable insights into the performance of various
      - Problem statement.
      - Metadata descriptions.
      - Recommended insights based on the analysis.
+     - Ad-hoc-requests sql queries.
+     - How to get started - a step by step guide.
+     - Project Details.
 
 ### 5. **SQL**
    - SQL scripts used in the project:
      - `retail_events_db.sql` – Database setup script.
-     - `script1.sql` – Ad-hoc SQL queries for answering specific business questions.
+     - `Script1.sql` – Ad-hoc SQL queries for answering specific business questions.
+     - `Script1.pdf` - For better readability of the sql file.
 
 ---
 
